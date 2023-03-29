@@ -1,0 +1,23 @@
+&cssppar
+ys      = 2008
+ms      =  1
+ds      =  1
+ye      = 2022
+me      =  8
+de      =  31
+cyl     = '2007'
+cml     = '12'
+cdl     = '31'
+restart = .True.
+ide     = 571
+jde     = 251
+dirs    = '/data/workspace/ymwang/DATA/land-surface-data/sbcs_Yangtze/'
+dirf    = '/data/workspace/ymwang/DATA/'
+diro    = '/data/workspace/ymwang/DATA/out2/'
+deltx   = 6000.
+delty   = 6000.
+dtime   = 1800.
+rdintvl = 3600
+wrintvl = 86400
+/
+~
